@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Eiman Hagimi Bin Arrifin](mailto:eiman.haqimi@owasp.org)
+* [Muhammad Zaim bin Romzee](mailto:zaim.romzee@owasp.org)
