@@ -6,6 +6,8 @@
 * [OWASP Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct)
 
 ### Social Links
+
+*[Group Chat](#)
 * [Meetup](#)
 
 
