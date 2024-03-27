@@ -5,4 +5,4 @@
 # Contact
 Telegram: [@owasppenang](https://t.me/)
 
-Site: [OWASP PENANG](https://www2.owasp.org/www-chapter-penang/)
+Site: [OWASP PENANG](https://www.owasp.org/www-chapter-penang/)
