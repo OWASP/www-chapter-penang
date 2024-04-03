@@ -10,11 +10,18 @@ meetup-group:
 ---
 ## Welcome
 
-Welcome to _OWASP Penang Chapter_, a regional city chapter within [OWASP Kuala Lumpur](https://owasp.org/www-chapter-kuala-lumpur/). Our Chapter provides an opportunity for people on the northwest coast of Malaysia, specifically in Peninsular Malaysia, to discuss around and share iaround information and application security.
+A warm welcome from the OWASP Penang Chapter! We are dedicated to improving software security through open-source initiatives, cutting-edge research, and extensive education as members of the worldwide OWASP community. Cybersecurity experts, programmers, and enthusiasts from Silicon Valley and the neighbouring regions come together in our chapter to learn from one another, work on solutions together, and make the internet a safer place.
 
 Anyone who is excited about and interested in application security is welcome. There are no costs to attend any meeting. **You don't need to be a member of OWASP**.
 
-Referrals to this website or to individual meetings to colleagues or acquaintances are welcome.
+Come be a part of our thriving community by attending our next event. By working together, we have the power to revolutionise cybersecurity. View our calendar and subscribe to our mailing list to be informed about all our forthcoming projects and events. Join us at the Penang OWASP Chapter, where we are working to make the internet a safer place via community, education, and innovation. Referrals to this website or to individual meetings to colleagues or acquaintances are welcome.
+
+# Penang Chapter Board
+
+If you want to know more about the OWASP San Jose chapter then please mail below chapter leaders:
+
+* [Eiman Haqimi Bin Arrifin](mailto:eiman.haqimi@owasp.org)
+* [Muhammad Zaim bin Romzee](mailto:zaim.romzee@owasp.org)
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
