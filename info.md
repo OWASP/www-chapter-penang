@@ -7,6 +7,3 @@
 ## Social Link
 [Join Our Whatsapp Group](https://chat.whatsapp.com/KAdpus4R0pb895ulC2jo8p)<br>
 
-## Board Members
-* Muhammad Al Hafis
-* Muhammad Aizuddin Abu Samah
