@@ -10,7 +10,7 @@ meetup-group:
 ---
 ## Welcome
 
-A warm welcome from the OWASP Penang Chapter! We are dedicated to improving software security through open-source initiatives, cutting-edge research, and extensive education as members of the worldwide OWASP community. Cybersecurity experts, programmers, and enthusiasts from Silicon Valley and the neighbouring regions come together in our chapter to learn from one another, work on solutions together, and make the internet a safer place.
+A warm welcome from the OWASP Penang Chapter! We are dedicated to improving software security through open-source initiatives, cutting-edge research, and extensive education as members of the worldwide OWASP community. Cybersecurity experts, programmers, and enthusiasts from Penang and the neighbouring regions come together in our chapter to learn from one another, work on solutions together, and make the internet a safer place.
 
 Anyone who is excited about and interested in application security is welcome. There are no costs to attend any meeting. **You don't need to be a member of OWASP**.
 
