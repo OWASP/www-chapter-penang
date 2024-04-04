@@ -18,7 +18,7 @@ Come be a part of our thriving community by attending our next event. By working
 
 # Penang Chapter Board
 
-If you want to know more about the OWASP San Jose chapter then please mail below chapter leaders:
+If you want to know more about the OWASP Penang Chapter then please mail below chapter leaders:
 
 * [Eiman Haqimi Bin Arrifin](mailto:eiman.haqimi@owasp.org)
 * [Muhammad Zaim bin Romzee](mailto:zaim.romzee@owasp.org)
