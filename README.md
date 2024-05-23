@@ -1,6 +1,6 @@
 # OWASP CHAPTER PENANG
 
-![Logo of OWASP CHAPTER NATAL](assets/images/OWASP_logo_trademark.png)
+![Logo of OWASP CHAPTER NATAL](assets/images/owp.png)
 
 # Contact
 Telegram: [@owaspmalaysia](https://t.me/+5IbUqm96sjAwZTI1)
