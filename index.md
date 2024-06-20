@@ -34,4 +34,17 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
+9:00 PM - 11:00 PM - [Meeting](https://www.meetup.com/owasp-penang-chapter/)
+
+The OWASP Malaysia Federation is delighted to introduce the OWASP Penang Chapter to everyone. Join us for an online meet-and-greet event with OWASP Penang on July 3, 2024. We will feature young speakers who will present exciting and up-to-date topics related to the world of cybersecurity. Don't miss this opportunity!
+&nbsp; 
+OWASP Malaysia Federation dengan berbesar hati ingin memperkenalkan OWASP Penang Chapter kepada semua. Sertai kami dalam acara suai kenal secara dalam talian bersama OWASP Penang pada 3 Julai 2024. Kami akan menampilkan penceramah muda yang akan mempersembahkan topik-topik menarik dan terkini berkaitan dengan dunia keselamatan siber. Jangan lepaskan peluang ini!
+&nbsp; 
+Time: 03/07/2024 9:00PM
+Platform: Microsoft Teams
+Speaker 1 : Muhammad Fahimuddin Bin Mazlan
+Topic: Creating Your Own WiFi Jammer
+Speaker 2: Mohammad Ezaly Iman Bin Ramli
+Topic: Cyber Security Drill With CTF
+
 
