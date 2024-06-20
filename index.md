@@ -49,8 +49,8 @@ OWASP Malaysia Federation dengan berbesar hati ingin memperkenalkan OWASP Penang
   
 * [Topic: Creating Your Own WiFi Jammer]
 
-*{Speaker 2: Mohammad Ezaly Iman Bin Ramli]
+* [Speaker 2: Mohammad Ezaly Iman Bin Ramli]
 
-*[Topic: Cyber Security Drill With CTF]
+* [Topic: Cyber Security Drill With CTF]
 
 
