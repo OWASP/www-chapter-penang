@@ -40,13 +40,13 @@ The OWASP Malaysia Federation is delighted to introduce the OWASP Penang Chapter
 
 OWASP Malaysia Federation dengan berbesar hati ingin memperkenalkan OWASP Penang Chapter kepada semua. Sertai kami dalam acara suai kenal secara dalam talian bersama OWASP Penang pada 3 Julai 2024. Kami akan menampilkan penceramah muda yang akan mempersembahkan topik-topik menarik dan terkini berkaitan dengan dunia keselamatan siber. Jangan lepaskan peluang ini!
 
-Time: 03/07/2024 9:00PM
-Platform: Microsoft Teams
+*Time: 03/07/2024 9:00PM
+*Platform: Microsoft Teams
 
-Speaker 1 : Muhammad Fahimuddin Bin Mazlan
-Topic: Creating Your Own WiFi Jammer
+*Speaker 1 : Muhammad Fahimuddin Bin Mazlan
+*Topic: Creating Your Own WiFi Jammer
 
-Speaker 2: Mohammad Ezaly Iman Bin Ramli
-Topic: Cyber Security Drill With CTF
+*Speaker 2: Mohammad Ezaly Iman Bin Ramli
+*Topic: Cyber Security Drill With CTF
 
 
