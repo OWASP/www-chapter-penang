@@ -8,6 +8,9 @@ country: Malaysia
 meetup-group:	OWASP-Penang-Chapter
 
 ---
+
+<img src="assets/images/owp.png">
+
 ## Welcome
 
 A warm welcome from the OWASP Penang Chapter! We are dedicated to improving software security through open-source initiatives, cutting-edge research, and extensive education as members of the worldwide OWASP community. Cybersecurity experts, programmers, and enthusiasts from Penang and the neighbouring regions come together in our chapter to learn from one another, work on solutions together, and make the internet a safer place.
