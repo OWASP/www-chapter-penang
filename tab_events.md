@@ -1,10 +1,10 @@
 ---
 title: events
 displaytext: Events
-layout:  col-sidebar
+layout: col-sidebar
 tab: true
 order: 4
-tags: OWASP-Penang
+tags: OWASP Penang
 ---
 
 ## Event
