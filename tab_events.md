@@ -25,7 +25,7 @@ OWASP Malaysia Federation dengan berbesar hati ingin memperkenalkan OWASP Penang
 2. Platform: Microsoft Teams
 
 3. Speaker 1 : Muhammad Fahimuddin Bin Mazlan
- Topic: Creating Your Own WiFi Jammer
+ Topic: Creating Your Own Deauther
 
 4. Speaker 2: Mohammad Ezaly Iman Bin Ramli
  Topic: Cyber Security Drill With CTF
