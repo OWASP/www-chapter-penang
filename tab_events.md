@@ -7,6 +7,7 @@ order: 4
 tags: OWASP Penang
 ---
 
+<img src="assets/images/BACK%20SIDE.png">
 ## Event
 
 ### OWASP Penang Meetup July 2024
