@@ -38,5 +38,5 @@ The chapter leadership board is as follows:
       <td>All Chapter Leadership </td></tr>
     <tr><td>Advisory Board Members</td>
       <td>Made up of previous Chapter leaders who provide mentoring, coaching, and assistance to the board and contribute to the Chapter’s success.</td>
-      <td> Al Hafis  <br/>  Mohammad Amir Khalis <br/>Muhammad Aizuddin Abu Samah  <br/>  Afifi  <br/></td></tr>
+      <td> Al Hafis  <br/>  Afifi <br/>Muhammad Aizuddin <br/>  Mohammad Amir Khalis  <br/></td></tr>
 </table>
