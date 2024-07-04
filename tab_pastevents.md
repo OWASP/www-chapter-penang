@@ -25,9 +25,11 @@ OWASP Malaysia Federation dengan berbesar hati ingin memperkenalkan OWASP Penang
 1. Time: 03/07/2024 9:00PM
 2. Platform: Microsoft Teams
 
+<img src="assets/images/1.png">
 3. Speaker 1 : Muhammad Fahimuddin Bin Mazlan
  Topic: Creating Your Own Deauther
 
+<img src="assets/images/2.png">
 4. Speaker 2: Mohammad Ezaly Iman Bin Ramli
  Topic: Cyber Security Drill With CTF
 
@@ -43,5 +45,5 @@ It's a wrap !
 
 - LinkedIn - [Post Event Recap](https://www.linkedin.com/posts/owaspmalaysia_we-are-thrilled-to-share-that-our-recent-activity-7214279037664288769-7pVa)
 
-Regards,</br>
+Regards,
 OWASP Penang Chapter Team
