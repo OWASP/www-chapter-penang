@@ -3,7 +3,7 @@ title: events
 displaytext: Events
 layout: col-sidebar
 tab: true
-order: 4
+order: 3
 tags: OWASP Penang
 ---
 
