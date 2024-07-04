@@ -33,6 +33,12 @@ OWASP Malaysia Federation dengan berbesar hati ingin memperkenalkan OWASP Penang
 
 20 minutes will be used for QnA or other discussions for future meetups.
 
+It's a wrap ! 
+
+<img src="assets/images/Speaker.png">
+<img src="assets/images/Speaker2.png">
+<img src="assets/images/Speaker3.png">
+
 Regards,</br>
 OWASP Penang Chapter Team
 
