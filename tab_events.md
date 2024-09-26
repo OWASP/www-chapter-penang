@@ -19,7 +19,9 @@ tags: OWASP Penang
 <br>
 💻 Venue: Microsoft Teams Meeting
 <br>
+<br>
 <img src="assets/images/Event_Speaker.png">
+<br>
 🎤 Topic: Introduction to ICS CyberSecurity
 <br>
 👨‍💼 Speaker: Ts. Samsuri Che-Embi (Former ICS Security Specialist, Bank Negara Malaysia)
