@@ -12,15 +12,13 @@ tags: OWASP Penang
 
 ### OWASP Penang Meetup September 2024
 
-1. <b> Fri, SEP 27 · 9:00 PM SST </b>
+<b> Fri, SEP 27 · 9:00 PM SST </b>
 📅 Date: 27 September 2024
 ⏰ Time: 9:00 PM
 💻 Venue: Microsoft Teams Meeting
-
-<img src="assets/images/Event_Speaker.png">
 🎤 Topic: Introduction to ICS CyberSecurity
 👨‍💼 Speaker: Ts. Samsuri Che-Embi (Former ICS Security Specialist, Bank Negara Malaysia)
-
+<img src="assets/images/Event_Speaker.png">
 
 Join us for the second OWASP Penang Virtual Meetup! In this session, Ts. Samsuri Che-Embi will provide valuable insights into Industrial Control Systems (ICS) CyberSecurity, sharing his extensive experience in the field. This is a great opportunity to deepen your understanding of the critical importance of securing ICS environments in today’s cybersecurity landscape.
 
