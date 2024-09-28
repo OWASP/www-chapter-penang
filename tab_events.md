@@ -28,7 +28,7 @@ tags: OWASP Penang
 <br>
 Join us for the second OWASP Penang Virtual Meetup! In this session, Ts. Samsuri Che-Embi will provide valuable insights into Industrial Control Systems (ICS) CyberSecurity, sharing his extensive experience in the field. This is a great opportunity to deepen your understanding of the critical importance of securing ICS environments in today’s cybersecurity landscape.
 
-📌 Book your slot now [Meetup](https://www.meetup.com/owasp-penang-chapter/events/303660679/)
+📌 Book your slot now [Meetup]([https://www.meetup.com/owasp-penang-chapter/events/303660679/](https://www.meetup.com/owasp-penang-chapter/events/303660679/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link))
 <br>
 20 minutes will be used for QnA or other discussions for future meetups.
 <br>
