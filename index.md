@@ -5,7 +5,7 @@ title: OWASP Penang
 tags: OWASP Penang Malaysia
 region: Asia
 country: Malaysia
-meetup-group:	OWASP-Penang-Chapter
+meetup-group: OWASP-Penang-Chapter
 
 ---
 
