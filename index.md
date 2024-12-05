@@ -24,7 +24,6 @@ Come be a part of our thriving community by attending our next event. By working
 If you want to know more about the OWASP Penang Chapter then please mail below chapter leaders:
 
 * [Eiman Haqimi Bin Arrifin](mailto:eiman.haqimi@owasp.org)
-* [Muhammad Zaim bin Romzee](mailto:zaim.romzee@owasp.org)
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
