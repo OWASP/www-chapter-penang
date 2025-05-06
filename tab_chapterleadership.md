@@ -21,11 +21,11 @@ The chapter leadership board is as follows:
   <tr><td>Chairman</td>
       <td>The central point of contact for the Chapter and responsible to the OWASP Board. Serves as Chapter board chair.</td>
       <td>Eiman Haqimi Arrifin</td></tr>
-      <tr><td>Secretary</td>
-      <td>Help Chairman, Seeks and schedules speakers for Chapter meetings and other events.Serves as Secretary</td>
+      <tr><td>Vice Chairman</td>
+      <td>Help Chairman, Coordinates all of the Chapter-sponsored educational offerings, to include the weekly Study Group and OWASP training. Serves as Chapter board Vice Chair</td>
       <td>Vacant<br/></td></tr>
-    <tr><td>Vice Chairman</td>
-      <td>Help Chairman, Coordinates all of the Chapter-sponsored educational offerings, to include the weekly Study Group and OWASP training.Serves as Chapter board Vice Chair</td>
+    <tr><td>Secretary</td>
+      <td>Help Chairman, Seeks and schedules speakers for Chapter meetings and other events. Serves as Secretary</td>
       <td>Vacant</td></tr>
     <tr><td>PR/Marketing Coordinator</td>
       <td>Provides marketing of Chapter events.</td>
