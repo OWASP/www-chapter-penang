@@ -26,10 +26,10 @@ The chapter leadership board is as follows:
       <td>Mohammad Ezaly Iman Ramli<br/></td></tr>
     <tr><td>Secretary</td>
       <td>Help Chairman, Seeks and schedules speakers for Chapter meetings and other events. Serves as Secretary</td>
-      <td>Vacant</td></tr>
+      <td>Muhammad Al Hafis Ridzwan</td></tr>
     <tr><td>PR/Marketing Coordinator</td>
       <td>Provides marketing of Chapter events.</td>
-      <td>Vacant</td></tr>
+      <td>Mohammad Amir Khalis Khairunizam </td></tr>
     <tr><td>Membership and Project Coordinator</td>
       <td>Coordinates activities to grow individual and corporate memberships. Acts as project manager for events, tracking assigned tasks and reporting progress.</td>
       <td>Vacant <br/></td></tr>
