@@ -5,6 +5,9 @@
 * [OWASP Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct)
 
 ## Social Link
-[Join Our Whatsapp Group](https://chat.whatsapp.com/KAdpus4R0pb895ulC2jo8p)<br>
-[Meetup](https://www.meetup.com/owasp-penang-chapter/)
+* [Join Our Whatsapp Group](https://chat.whatsapp.com/KAdpus4R0pb895ulC2jo8p)
+* [Official Meetup Page](https://www.meetup.com/owasp-penang-chapter/)
+* [Official X Page](https://x.com/OWASP_Malaysia)
+
+
 
