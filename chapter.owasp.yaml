@@ -1,0 +1,28 @@
+leaders:
+  - name: Eiman Haqimi Bin Arrifin
+    email: eiman.haqimi@owasp.org
+  - name: Mohammad Ezaly Iman Bin Ramli
+    email: ezali.iman@owasp.org
+  - name: Muhammad Al Hafis Bin Ridzwan
+    email: al.hafis@owasp.org
+  - name: Mohammad Amir Khalis Bin Khairunizam
+    email: amir.khalis@owasp.org
+  - name: Muhammad Afifizuddin Bin Jamuddin
+    email: muhd.afifizuddin@owasp.org
+location:
+  country: Malaysia
+  country_code: MY
+  region: Asia
+  latitude: 44.933143
+  longitude: 7.540121
+meetup_group: OWASP-Penang-Chapter
+name: OWASP Penang
+repositories:
+  - name: www-chapter-penang
+    url: https://github.com/OWASP/www-chapter-penang
+    description: OWASP Foundation web repository
+tags:
+  - OWASP
+  - Penang
+  - Malaysia
+website: https://owasp.org/www-chapter-penang
